@@ -25,10 +25,10 @@ Non-trainable params: 0
 _________________________________________________________________
 
 ## Benchmark Output
-![alt text](plot_Re2636315_Mach0.10.svg)
-![alt text](plot_Re2636315_Mach0.20.svg)
-![alt text](plot_Re2636315_Mach0.30.svg)
-![alt text](plot_Re2636315_Mach0.40.svg)
-![alt text](plot_Re2636315_Mach0.50.svg)
-![alt text](plot_Re2636315_Mach0.60.svg)
-![alt text](plot_Re2636315_Mach0.70.svg)
+![alt text](.\output\plot_Re2636315_Mach0.10.svg)
+![alt text](.\output\plot_Re2636315_Mach0.20.svg)
+![alt text](.\output\plot_Re2636315_Mach0.30.svg)
+![alt text](.\output\plot_Re2636315_Mach0.40.svg)
+![alt text](.\output\plot_Re2636315_Mach0.50.svg)
+![alt text](.\output\plot_Re2636315_Mach0.60.svg)
+![alt text](.\output\plot_Re2636315_Mach0.70.svg)
