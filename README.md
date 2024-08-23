@@ -1,7 +1,8 @@
 # airfoil_ann
-根据XFOIL计算得到的CLARK-Y翼型性能数据，训练得到一个还不错的神经网络模型，可以用于翼型性能预测
+根据[XFOIL计算得到的CLARK-Y翼型性能数据](https://github.com/jiangk-cn/airfoil_performance)，训练得到一个还不错的神经网络模型，可以用于翼型性能预测
 
-## CNN model
+
+## ANN model
 ![alt text](./output/ann_model.jpg)
 
 ## Benchmark Output
