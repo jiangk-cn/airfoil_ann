@@ -6,13 +6,42 @@
 ![alt text](./output/ann_model.jpg)
 
 ## Benchmark Output
-![alt text](./output/plot_Re2636315_Mach0.10.svg)
-![alt text](./output/plot_Re2636315_Mach0.20.svg)
-![alt text](./output/plot_Re2636315_Mach0.30.svg)
-![alt text](./output/plot_Re2636315_Mach0.40.svg)
-![alt text](./output/plot_Re2636315_Mach0.50.svg)
-![alt text](./output/plot_Re2636315_Mach0.60.svg)
-![alt text](./output/plot_Re2636315_Mach0.70.svg)
+### CNN7
+#### Re=1323157
+![alt text](output/cnn7_plot_Re1323157_Mach0.10.svg)
+![alt text](output/cnn7_plot_Re1323157_Mach0.20.svg)
+![alt text](output/cnn7_plot_Re1323157_Mach0.30.svg)
+![alt text](output/cnn7_plot_Re1323157_Mach0.40.svg)
+![alt text](output/cnn7_plot_Re1323157_Mach0.50.svg)
+![alt text](output/cnn7_plot_Re1323157_Mach0.60.svg)
+![alt text](output/cnn7_plot_Re1323157_Mach0.70.svg)
+#### Re=3686842
+![alt text](output/cnn7_plot_Re3686842_Mach0.10.svg)
+![alt text](output/cnn7_plot_Re3686842_Mach0.20.svg)
+![alt text](output/cnn7_plot_Re3686842_Mach0.30.svg)
+![alt text](output/cnn7_plot_Re3686842_Mach0.40.svg)
+![alt text](output/cnn7_plot_Re3686842_Mach0.50.svg)
+![alt text](output/cnn7_plot_Re3686842_Mach0.60.svg)
+![alt text](output/cnn7_plot_Re3686842_Mach0.70.svg)
+
+### CNN8
+#### Re=1323157
+![alt text](output/cnn8_plot_Re1323157_Mach0.10.svg)
+![alt text](output/cnn8_plot_Re1323157_Mach0.20.svg)
+![alt text](output/cnn8_plot_Re1323157_Mach0.30.svg)
+![alt text](output/cnn8_plot_Re1323157_Mach0.40.svg)
+![alt text](output/cnn8_plot_Re1323157_Mach0.50.svg)
+![alt text](output/cnn8_plot_Re1323157_Mach0.60.svg)
+![alt text](output/cnn8_plot_Re1323157_Mach0.70.svg)
+#### Re=3686842
+![alt text](output/cnn8_plot_Re3686842_Mach0.10.svg)
+![alt text](output/cnn8_plot_Re3686842_Mach0.20.svg)
+![alt text](output/cnn8_plot_Re3686842_Mach0.30.svg)
+![alt text](output/cnn8_plot_Re3686842_Mach0.40.svg)
+![alt text](output/cnn8_plot_Re3686842_Mach0.50.svg)
+![alt text](output/cnn8_plot_Re3686842_Mach0.60.svg)
+![alt text](output/cnn8_plot_Re3686842_Mach0.70.svg)
+
 
 ## TODO
-高马赫数下模型可能会失真，可能是因为高马赫数下的数据量较少
+高马赫数下模型可能会失真，可能是因为高马赫数下的数据量较少，cnn8看起来会更好一些
