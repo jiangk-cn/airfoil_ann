@@ -7,7 +7,7 @@
 
 ## Benchmark Output
 ### CNN7
-#### Re=1323157
+#### CNN7 at Re=1323157
 ![alt text](output/cnn7_plot_Re1323157_Mach0.10.svg)
 ![alt text](output/cnn7_plot_Re1323157_Mach0.20.svg)
 ![alt text](output/cnn7_plot_Re1323157_Mach0.30.svg)
@@ -15,7 +15,7 @@
 ![alt text](output/cnn7_plot_Re1323157_Mach0.50.svg)
 ![alt text](output/cnn7_plot_Re1323157_Mach0.60.svg)
 ![alt text](output/cnn7_plot_Re1323157_Mach0.70.svg)
-#### Re=3686842
+#### CNN7 at Re=3686842
 ![alt text](output/cnn7_plot_Re3686842_Mach0.10.svg)
 ![alt text](output/cnn7_plot_Re3686842_Mach0.20.svg)
 ![alt text](output/cnn7_plot_Re3686842_Mach0.30.svg)
@@ -25,7 +25,7 @@
 ![alt text](output/cnn7_plot_Re3686842_Mach0.70.svg)
 
 ### CNN8
-#### Re=1323157
+#### CNN8 at Re=1323157
 ![alt text](output/cnn8_plot_Re1323157_Mach0.10.svg)
 ![alt text](output/cnn8_plot_Re1323157_Mach0.20.svg)
 ![alt text](output/cnn8_plot_Re1323157_Mach0.30.svg)
@@ -33,7 +33,7 @@
 ![alt text](output/cnn8_plot_Re1323157_Mach0.50.svg)
 ![alt text](output/cnn8_plot_Re1323157_Mach0.60.svg)
 ![alt text](output/cnn8_plot_Re1323157_Mach0.70.svg)
-#### Re=3686842
+#### CNN8 at Re=3686842
 ![alt text](output/cnn8_plot_Re3686842_Mach0.10.svg)
 ![alt text](output/cnn8_plot_Re3686842_Mach0.20.svg)
 ![alt text](output/cnn8_plot_Re3686842_Mach0.30.svg)
