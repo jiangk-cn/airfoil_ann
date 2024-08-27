@@ -3,45 +3,29 @@
 
 
 ## ANN model
-![alt text](./output/ann_model.jpg)
+![alt text](output/netron-cnn8.png)
 
 ## Benchmark Output
-### CNN7
-#### CNN7 at Re=1323157
-![alt text](output/cnn7_plot_Re1323157_Mach0.10.svg)
-![alt text](output/cnn7_plot_Re1323157_Mach0.20.svg)
-![alt text](output/cnn7_plot_Re1323157_Mach0.30.svg)
-![alt text](output/cnn7_plot_Re1323157_Mach0.40.svg)
-![alt text](output/cnn7_plot_Re1323157_Mach0.50.svg)
-![alt text](output/cnn7_plot_Re1323157_Mach0.60.svg)
-![alt text](output/cnn7_plot_Re1323157_Mach0.70.svg)
-#### CNN7 at Re=3686842
-![alt text](output/cnn7_plot_Re3686842_Mach0.10.svg)
-![alt text](output/cnn7_plot_Re3686842_Mach0.20.svg)
-![alt text](output/cnn7_plot_Re3686842_Mach0.30.svg)
-![alt text](output/cnn7_plot_Re3686842_Mach0.40.svg)
-![alt text](output/cnn7_plot_Re3686842_Mach0.50.svg)
-![alt text](output/cnn7_plot_Re3686842_Mach0.60.svg)
-![alt text](output/cnn7_plot_Re3686842_Mach0.70.svg)
+### Reynolds Number = 48542
+![alt text](output/MaxAbsScaler_model_re_48542_mach_0.00.svg)
+![alt text](output/MaxAbsScaler_model_re_48542_mach_0.10.svg)
+![alt text](output/MaxAbsScaler_model_re_48542_mach_0.20.svg)
+![alt text](output/MaxAbsScaler_model_re_48542_mach_0.30.svg)
+![alt text](output/MaxAbsScaler_model_re_48542_mach_0.40.svg)
+![alt text](output/MaxAbsScaler_model_re_48542_mach_0.50.svg)
+![alt text](output/MaxAbsScaler_model_re_48542_mach_0.60.svg)
+![alt text](output/MaxAbsScaler_model_re_48542_mach_0.70.svg)
 
-### CNN8
-#### CNN8 at Re=1323157
-![alt text](output/cnn8_plot_Re1323157_Mach0.10.svg)
-![alt text](output/cnn8_plot_Re1323157_Mach0.20.svg)
-![alt text](output/cnn8_plot_Re1323157_Mach0.30.svg)
-![alt text](output/cnn8_plot_Re1323157_Mach0.40.svg)
-![alt text](output/cnn8_plot_Re1323157_Mach0.50.svg)
-![alt text](output/cnn8_plot_Re1323157_Mach0.60.svg)
-![alt text](output/cnn8_plot_Re1323157_Mach0.70.svg)
-#### CNN8 at Re=3686842
-![alt text](output/cnn8_plot_Re3686842_Mach0.10.svg)
-![alt text](output/cnn8_plot_Re3686842_Mach0.20.svg)
-![alt text](output/cnn8_plot_Re3686842_Mach0.30.svg)
-![alt text](output/cnn8_plot_Re3686842_Mach0.40.svg)
-![alt text](output/cnn8_plot_Re3686842_Mach0.50.svg)
-![alt text](output/cnn8_plot_Re3686842_Mach0.60.svg)
-![alt text](output/cnn8_plot_Re3686842_Mach0.70.svg)
-
+### Reynolds Number = 775862
+![alt text](output/MaxAbsScaler_model_re_775862_mach_0.00.svg)
+![alt text](output/MaxAbsScaler_model_re_775862_mach_0.10.svg)
+![alt text](output/MaxAbsScaler_model_re_775862_mach_0.20.svg)
+![alt text](output/MaxAbsScaler_model_re_775862_mach_0.30.svg)
+![alt text](output/MaxAbsScaler_model_re_775862_mach_0.40.svg)
+![alt text](output/MaxAbsScaler_model_re_775862_mach_0.50.svg)
+![alt text](output/MaxAbsScaler_model_re_775862_mach_0.60.svg)
+![alt text](output/MaxAbsScaler_model_re_775862_mach_0.70.svg)
 
 ## TODO
-高马赫数下模型可能会失真，可能是因为高马赫数下的数据量较少，cnn8看起来会更好一些
+根据与数据库中没有的0.0马赫数据库的对比，还存在一些点的预测效果不好，但是目前的模型基本可用，用法可以参考[load_ann_model.ipynb](load_ann_model.ipynb)
+![alt text](benchmark/benchmark_model_re_50000_mach_0.00.svg)
